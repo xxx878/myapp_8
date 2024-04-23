@@ -1,0 +1,15 @@
+.header {
+    padding: 1rem 0;
+    background-color: bisque;
+
+}
+
+
+.link {
+    color: #000;
+    font-size: 16px;
+}
+
+.link:not(:last-child) {
+    margin-right: .5rem;
+}
